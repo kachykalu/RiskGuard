@@ -269,7 +269,7 @@ The automation eliminates several common spreadsheet risks:
 These improvements increase confidence in the operational integrity of the register.
 
 ---
-<img width="1867" height="922" alt="image" src="https://github.com/user-attachments/assets/33ab8423-e4a0-4462-b175-f7d7c2d55e5a" />
+<img width="1822" height="928" alt="WAF (1)" src="https://github.com/user-attachments/assets/8c150a14-bc87-41f8-ab5e-8421fc8be271" />
 
 
 # Functions Included
